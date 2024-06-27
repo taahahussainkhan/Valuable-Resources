@@ -34,3 +34,7 @@ AI Tools for Speech and Delivery
 - VocaliD: AI that customizes synthetic voices for narration.
 - CereProc: AI-powered text-to-speech tool that creates natural-sounding voices for presentations.
 - Speechmatics: Utilizes AI for accurate speech recognition and transcription during presentations.
+
+
+
+[BSDEGREEGA](https://bsdegreega.netlify.app/) 
